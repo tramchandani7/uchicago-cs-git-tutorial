@@ -1,3 +1,3 @@
 Taran Ramchandani tramchandani
 UChicago CS Git Tutorial
-Git is pretty cool
+Git is pretty cool!
